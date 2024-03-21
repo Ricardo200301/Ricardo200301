@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ricardo200301
-- 👀 I’m interested in 学习
+- 👀 我要学好python和vue
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
